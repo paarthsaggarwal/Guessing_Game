@@ -24,7 +24,7 @@ int main()
         
     }
     if(outofguesses){
-        cout << "You lose, the correct answer was " << secretnum << " !";
+        cout << "You lose, the correct answer was " << secretnum << "!";
     } else {
         cout << "You Win!";
     }
